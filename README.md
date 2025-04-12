@@ -1,6 +1,6 @@
 # File Encryption / Decryption Tool
 
-- Due to internationalization, the first thing to do is to document in English.
+- Due to internationalization, the first thing to do is to document in English.(But I seem to have forgotten to adapt the English version......)
 - The Chinese document is at the bottom of this page!
 
 ## File Encryption / Decryption Tool English Description
