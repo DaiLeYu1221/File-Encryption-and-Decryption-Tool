@@ -11,7 +11,7 @@
 
 - 1. Instructions for Use
 
-First, you should use your python interpreter to open `.py` or `exe`file.
+First, you should use your python interpreter to open .py or exefile.
 (The exe file only supports operation on the Windows operating system.)
 
 Then, choose the corresponding module according to your needs and use it.
@@ -44,8 +44,8 @@ We regret to inform you that currently, encryption / decryption operations for l
 
 - 1.使用说明
 
-首先，您应该使用 python 解释器打开 '.py' 或 'exe' 文件。
-（ `.exe` 文件仅支持在 `Windows操作系统`上打开使用。)
+首先，您应该使用 python 解释器打开 .py 或 exe 文件。
+（ .exe`文件仅支持在 Windows操作系统上打开使用。)
 
 然后，根据您的需求选择相应的模块并使用它。
 
