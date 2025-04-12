@@ -73,5 +73,8 @@ We regret to inform you that currently, encryption / decryption operations for l
 
 ## 更多|more
 
+- 如有报错等问题，请提交issues，需包括详细报错，必要时配合提供文件，谢谢！
+- If there is an error report and other problems, please submit issues, including a detailed error report, and cooperate with the documents if necessary, thank you!
+
 [作者B站主页](https://space.bilibili.com/3461564273265329)
 [作者官网](https://wenyuxiangxiang1221.wordpress.com)
