@@ -1,42 +1,5 @@
 # File Encryption / Decryption Tool
 
-- Due to internationalization, the first thing to do is to document in English.(But I seem to have forgotten to adapt the English version......)
-- The Chinese document is at the bottom of this page!
-
-## File Encryption / Decryption Tool English Description
-
-## File Encryption / Decryption Tool  V1.0
-
--Version 1.0 Description
-
-- 1. Instructions for Use
-
-First, you should use your python interpreter to open .py or exefile.
-(The exe file only supports operation on the Windows operating system.)
-
-Then, choose the corresponding module according to your needs and use it.
-
-- 2. Terms of Use
-
-We regret to inform you that currently, encryption / decryption operations for large files (greater than 1GB) are not supported.
-
-**We will update the version as soon as possible!**
-
-
-## File Encryption / Decryption Tool  V2.0
-
--Hi! We have promptly updated to version 2.0 for your use!
-
-- 1. Instructions for Use
-**The usage method is similar to version V1.0, and will not be elaborated upon here.**
-
-- 2. Update Content
-
-## We have adopted a new approach that enables this program to support the encryption and decryption of large files (greater than 1GB)！
-
-`The English description has concluded...`
-
-
 ## 文件加/解密器中文说明
 
 
@@ -64,12 +27,15 @@ We regret to inform you that currently, encryption / decryption operations for l
 
 - 2.更新内容
 
-## 我们采用了一种新方法，使该程序能够支持大文件（大于 1GB）的加密和解密！
+**我们采用了一种新方法，使该程序能够支持大文件（大于 1GB）的加密和解密！**
 
+## 文件加密/解密工具 v3.0
+
+- 没想到吧，这个项目还有V3.0版本的更新~
+
+- 加上了版权声明和一些其他的东西
 
 `至此，文件加/解密器的使用说明已全部完毕！`
-
-`At this point, the instructions for using the file encrypter/decryptor are all done!`
 
 ## 更多|more
 
